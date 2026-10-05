@@ -1,0 +1,83 @@
+{
+  "@@locale": "en",
+  "appTitle": "Medical Transaction App",
+  "startRecording": "Start Recording",
+  "stopRecording": "Stop Recording",
+  "pause": "Pause",
+  "resume": "Resume",
+  "recording": "Recording",
+  "paused": "Paused",
+  "patients": "Patients",
+  "addPatient": "Add Patient",
+  "settings": "Settings",
+  "theme": "Theme",
+  "language": "Language",
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode",
+  "systemMode": "System Default",
+  "english": "English",
+  "hindi": "Hindi",
+  "patientName": "Patient Name",
+  "phoneNumber": "Phone Number",
+  "email": "Email",
+  "save": "Save",
+  "cancel": "Cancel",
+  "selectPatient": "Select Patient",
+  "noPatientSelected": "No Patient Selected",
+  "duration": "Duration",
+  "audioLevel": "Audio Level",
+  "uploading": "Uploading",
+  "uploaded": "Uploaded",
+  "failed": "Failed",
+  "recordings": "Recordings",
+  "sessionDetails": "Session Details",
+  "recordingStarted": "Recording started",
+  "recordingStoppedSaved": "Recording stopped and saved",
+  "startingRecording": "Starting recording...",
+  "stoppingRecording": "Stopping recording...",
+  "errorStartingRecording": "Error starting recording",
+  "errorStoppingRecording": "Error stopping recording",
+  "retry": "Retry",
+  "goAheadListening": "Go ahead. I'm listening.",
+  "listening": "Listening...",
+  "medicalTranscription": "Medical Transcription",
+  "tapToBeginSession": "Tap to begin a new medical transcription session",
+  "quickActions": "Quick Actions",
+  "sessionInformation": "Session Information",
+  "transcript": "Transcript",
+  "sessionId": "Session ID",
+  "date": "Date",
+  "startTime": "Start Time",
+  "endTime": "End Time",
+  "noPatient": "No Patient",
+  "recordingSession": "Recording Session",
+  "headsetConnected": "Headset Connected",
+  "deviceMic": "Device Mic",
+  "gainControl": "Gain Control",
+  "liveTranscription": "Live transcription",
+  "listeningForSpeech": "Listening for speech",
+  "tapToStartInstructions": "Tap the button below to start recording",
+  "listeningToYou": "Listening to You..",
+  "tapToPauseLongPressStop": "Tap to pause • Long press to stop",
+  "transcriptReady": "TRANSCRIPT: READY",
+  "unknown": "Unknown",
+  "errorLoadingSessions": "Error loading sessions",
+  "patientCount": "{count, plural, =0{No patients} =1{1 patient} other{{count} patients}}",
+  "@patientCount": {
+    "description": "Number of patients in the list",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "recordingCount": "{count, plural, =0{No recordings} =1{1 recording} other{{count} recordings}}",
+  "@recordingCount": {
+    "description": "Number of recording sessions in the list",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
+}
